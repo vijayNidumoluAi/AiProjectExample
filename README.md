@@ -1,1 +1,1 @@
-# AiProjectExample
+# ComputerVisionNanoDegreeNotes
